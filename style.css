@@ -43,7 +43,7 @@ body {
 
 #mb {
     margin-bottom: 20vh;
-    border: 0;
+    border: 1;
 }
 
 .rad10 {
@@ -82,4 +82,5 @@ body {
     box-shadow: -1px 0 red, 1px 0px cyan;
     display: flex;
     justify-content: center;
+    
 }
